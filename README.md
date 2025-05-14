@@ -1,6 +1,6 @@
 <div align="center">
     <img src="https://cdn.discordapp.com/attachments/1310775778601996428/1372319027929812992/in.png?ex=68265730&is=682505b0&hm=9e83d87fe3fe6a306765079153c90852211f6895f836b9b84dd0cb8b18424e10&">
-    <p>Serving over 8+ million users since 2023.<p>
+    <p>Sigma Village has served this proxy to hundreds of people at school.<p>
     <p>Sigma Village's proxy has Clean and Sleek UI and easy to use menus. Our goal is to provide the best user experience to everyone.</p>
 </div>
 
