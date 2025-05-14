@@ -139,7 +139,7 @@ server.on("upgrade", (req, socket, head) => {
 });
 
 server.on("listening", () => {
-  console.log(chalk.green(`🌍 Server is running on http://localhost:${PORT}`));
+  console.log(chalk.green(`🐵 Thank you for supporting Sigma Village! Your hosting ID is: http://localhost:${PORT}`));
 });
 
 server.listen({ port: PORT });
